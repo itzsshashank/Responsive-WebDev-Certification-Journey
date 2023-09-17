@@ -1,11 +1,11 @@
 
-# Web Development Journey @FreeCodeCamp
+# Web Development Journey
 
 Welcome to my web development journey repository! :rocket:
 
 ## Introduction
 
-I'm Shashank Shukla, and I'm on an exciting journey to further develop my skills in web development. I've already taken some initial steps, sharing two basic projects on GitHub showcasing my basic knowledge of HTML and CSS. This repository serves as a place to track my progress and continue exploring the world of web development.
+I'm Shashank Shukla, and I'm on an exciting journey to further develop my skills in web development by [FreeCodeCamp](https://github.com/freecodecamp). I've already taken some initial steps, sharing two basic projects on GitHub showcasing my basic knowledge of HTML and CSS. This repository serves as a place to track my progress and continue exploring the world of web development.
 
 ## Future Plans
 
