@@ -26,5 +26,7 @@ I'm enthusiastic about this journey, and I look forward to sharing my progress a
 ## Here's a preview of the responsive web page created with HTML and CSS
 
 ## Cafe Menu
-![Cafe Menu](CafeMenuPreview.png)
+![Cafe Menu](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Cafe%20Menu/CafeMenuPreview.png)
 
+## Rothok Painting
+![Rothok Painting](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Rothok%20Painting/RothkoPainting.png)
