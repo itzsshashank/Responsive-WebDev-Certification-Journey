@@ -22,3 +22,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shashanks
 
 I'm enthusiastic about this journey, and I look forward to sharing my progress and new projects with the community. Stay tuned for more exciting web development endeavors!
 
+---
+## Here's a preview of the responsive web page created with HTML and CSS
+
+## Cafe Menu
+
