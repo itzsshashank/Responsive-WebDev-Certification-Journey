@@ -26,4 +26,5 @@ I'm enthusiastic about this journey, and I look forward to sharing my progress a
 ## Here's a preview of the responsive web page created with HTML and CSS
 
 ## Cafe Menu
+![Cafe Menu](CafeMenuPreview.png)
 
