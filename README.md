@@ -31,3 +31,7 @@ This are the regular Projects that i made and upload it on regular basis
 
 ## Rothok Painting using CSS
 ![Rothok Painting](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Rothok%20Painting/RothkoPainting.png)
+
+## Registration Form using HTML & CSS
+![Registration Form 1st Half Preview](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Registration%20Form/RegistrationForm1.png)
+![Registration Form 2nd Half Preview](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Registration%20Form/RegistrationForm2.png)
