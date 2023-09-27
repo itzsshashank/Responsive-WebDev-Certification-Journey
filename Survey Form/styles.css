@@ -1,0 +1,47 @@
+body {
+    text-align: left;
+    border: 1px solid black;
+    width: 55%;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+.container{
+    text-align: c;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+form{
+    display: block;
+    margin: 5;
+}
+
+.age {
+    text-align: left;
+}
+.comments{
+    margin: 0;
+}
+
+.button{
+    padding-top: 5px;
+}
+
+.name {
+    padding: 5px;
+}
+.email {
+    padding: 5px;
+}
+.age {
+    padding: 5px;
+}
+
+.dropdown {
+    padding-top: 10px;
+}
+
