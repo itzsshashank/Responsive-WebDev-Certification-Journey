@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<div class="container">
+<body>
+  <h1 id="title">Survey Form</h1>
+  <p id="description">This is an example survey form project</p>
+  <form id="survey-form">
+    <div class="name">
+      <label id="name-label" for="name">Name:</label>
+      <input id="name" type="text" placeholder="Shashank S..." required />
+    </div>
+
+    <div class="email">
+      <label id="email-label" for="email">Email:</label>
+      <input id="email" placeholder="example@gmail.com" type="email" required />
+    </div>
+
+    <div class="age">
+      <label id="number-label" for="number">Age:</label>
+      <input id="number" placeholder="13" type="number" min="13" max="120" required />
+    </div>
+
+    <div class="dropdown">
+      <p>Where did you here about us</p>
+      <select id="dropdown">
+        <option>Friend</option>
+        <option>Social Media</option>
+        <option>Banners</option>
+      </select>
+    </div>
+
+    <p><b>Would you recommend it to a friend?</b></p>
+    <div class="radio-group">
+      <label>
+        <input type="radio" name="radio" value="radio" />
+        Definitely
+      </label>
+    </div>
+    <div class="radio-group">
+      <label>
+        <input type="radio" name="radio" value="radio" />No
+      </label>
+    </div>
+    <div class="radio-group">
+      <label>
+        <input type="radio" name="radio" value="radio" />Not Sure
+
+      </label>
+    </div>
+    <div class="comments">
+    <p>Add Comments: </p>
+    <textarea placeholder="Comments"></textarea>
+    </div>
+
+
+    <div class="button">
+      <button type="submit" id="submit">Submit</button>
+    </div>
+  </form>
+</body>
+</div>
+</html>
