@@ -39,6 +39,8 @@ This are the regular Projects that i made and upload it on regular basis
 ## Certification Project 1: Survey Form
 ![Survey Form](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Survey%20Form/SurveyFormProject.png)
 
+<hr>
+
 ## Rothok Painting using CSS
 ![Rothok Painting](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Rothok%20Painting/RothkoPainting.png)
 
@@ -47,3 +49,7 @@ This are the regular Projects that i made and upload it on regular basis
 
 ## Nutrition Label using Html & CSS
 ![Nutrition Label Preview](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Nutrition%20Label/NutritionLabelPreview.png)
+
+## Quiz with accessibility features
+![Quiz Page1](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Quiz%20with%20Accessibility%20features/QuizPage1.png)
+![Quiz Page2](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Quiz%20with%20Accessibility%20features/QuizPage2.png)
