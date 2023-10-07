@@ -29,8 +29,8 @@ This are the regular Projects that i made and upload it on regular basis
 ## Cafe Menu using HTML & CSS
 ![Cafe Menu](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Cafe%20Menu/CafeMenuPreview.png)
 
-## Rothok Painting using CSS
-![Rothok Painting](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Rothok%20Painting/RothkoPainting.png)
+## Colored Markers using CSS
+![Colored Markers](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Set%20of%20Coloured%20Markers/ColoredMarkerUsingCss.png)
 
 ## Registration Form using HTML & CSS
 ![Registration Form 1st Half Preview](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Registration%20Form/RegistrationForm1.png)
@@ -38,6 +38,9 @@ This are the regular Projects that i made and upload it on regular basis
 
 ## Certification Project 1: Survey Form
 ![Survey Form](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Survey%20Form/SurveyFormProject.png)
+
+## Rothok Painting using CSS
+![Rothok Painting](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Rothok%20Painting/RothkoPainting.png)
 
 ## Flexbox Photo Gallery
 ![Flexbox Photo Gallery Preview](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Flexbox%20Photo%20Gallery/FlexboxPhotoGallery.png)
