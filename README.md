@@ -53,3 +53,7 @@ This are the regular Projects that i made and upload it on regular basis
 ## Quiz with accessibility features
 ![Quiz Page1](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Quiz%20with%20Accessibility%20features/QuizPage1.png)
 ![Quiz Page2](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Quiz%20with%20Accessibility%20features/QuizPage2.png)
+
+## Certification Project 2: Tribute Page
+![Tribute Page 1](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Tribute%20Page/Tribute%20Page%201.png)
+![Tribute Page 2](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Tribute%20Page/Tribute%20Page%202.png)
