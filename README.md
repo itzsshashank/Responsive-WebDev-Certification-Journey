@@ -57,3 +57,9 @@ This are the regular Projects that i made and upload it on regular basis
 ## Certification Project 2: Tribute Page
 ![Tribute Page 1](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Tribute%20Page/Tribute%20Page%201.png)
 ![Tribute Page 2](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Tribute%20Page/Tribute%20Page%202.png)
+
+<hr>
+
+## Balance Sheet using HTML & CSS
+![Balance Sheet 1](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Balance%20Sheet/BalanceSheet1.png)
+![Balance Sheet 2](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Balance%20Sheet/BalanceSheet2.png)
