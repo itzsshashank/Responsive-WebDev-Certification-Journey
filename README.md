@@ -63,3 +63,6 @@ This are the regular Projects that i made and upload it on regular basis
 ## Balance Sheet using HTML & CSS
 ![Balance Sheet 1](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Balance%20Sheet/BalanceSheet1.png)
 ![Balance Sheet 2](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Balance%20Sheet/BalanceSheet2.png)
+
+## Cat Painting - Intemediate CSS
+![Cat Painting](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Cat%20Painting/CatImage.png)
