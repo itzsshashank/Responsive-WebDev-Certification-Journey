@@ -74,3 +74,6 @@ This are the regular Projects that i made and upload it on regular basis
 ## City Skyline 
 ![Day Time City SkyLine](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/City%20Skyline/City%20Skyline%20Day%20Time.png)
 ![Night Time City Sky Line](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/City%20Skyline/City%20Skyline%20Night%20Time.png)
+
+## Magazine 
+![Magazine Image](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Magazine/responsive-magazine.jpeg)
