@@ -86,3 +86,6 @@ This are the regular Projects that i made and upload it on regular basis
 
 ## Ferris Wheel
 ![Ferris Wheel](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Ferris%20Wheel/ferris-wheel.gif)
+
+## Penguin
+![Penguin](https://github.com/itzsshashank/Responsive-WebDev-Certification-Journey/blob/main/Penguin/penguin.gif)
